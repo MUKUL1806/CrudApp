@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Mukul",
+      "username": "2018uec1806@mnit.ac.in",
+      "email": "mukul@gmail.com",
+      "phone": "+91(0)6378025961",
+      "id": 2
+    },
+    {
+      "name": "Jain",
+      "username": "danik123",
+      "email": "jain@gmail.com",
+      "phone": "2543737334",
+      "id": 3
+    }
+  ]
+}
